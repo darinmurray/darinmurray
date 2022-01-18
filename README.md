@@ -5,7 +5,7 @@
 <h1 align="center"> Hi, I’m @darinmurray </h1>
 
 <p align="center">
-  I <em>make things pretty</em>, weather in real life (designing and producing physical products), or digital (digital illustrator & code creator). 
+  I <em>make things pretty</em>, whether in real life (designing and producing physical products), or digital (digital illustrator & code creator). 
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@ You can see my product/design work at www.darinmurray.com
 </p>
 
 <p align="center">
-I have bult and managed a Shopify stores grosing over one million in anual sales for my own products.
+I have bult and managed a Shopify store grossing over one million in annual sales for my own products.
 </p>
 
 <p align="center">
@@ -26,7 +26,7 @@ HTML/CSS/JQuery/Rails/Liquid
 
 <p align="center">
 I completed all industrial design, product production, hiring/firing, establishing & equipping a manufacturing facility,
-product photography, graphic design, videos and extensive Shopify momdifications including custom product builders.
+product photography, graphic design, video production and extensive Shopify modifications including custom product builders.
 </p>
 
 <p align="center">
