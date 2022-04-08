@@ -21,7 +21,7 @@ I have bult and managed a Shopify store grossing over one million in annual sale
 </p>
 
 <p align="center">
-HTML/CSS/JQuery/Rails/Liquid
+HTML/CSS/Javascript/JQuery/Rails/Liquid
 </p>
 
 <p align="center">
