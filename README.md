@@ -5,7 +5,7 @@
 <h1 align="center"> Hi, I’m @darinmurray </h1>
 
 <p align="center">
-  I make things pretty, whether in real life (designing and producing physical products), or digital (digital illustrator & code creator). 
+  I make things pretty, whether in real life (designing and producing physical products),<br/> or digital (digital illustrator & code creator). 
 </p>
 
 <p align="center">
